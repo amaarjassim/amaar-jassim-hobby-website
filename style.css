@@ -1,0 +1,19 @@
+body {
+  font-family: system-ui;
+  /*background: #f06d06;*/
+  background: black;
+  color: white;
+  text-align: center;
+}
+img {
+  height: 500px;
+}
+.dungeon_img{
+  justify-content: center;
+}
+.vivi_img{
+  justify-content: left;
+}
+.top_down_img{
+  justify-content: right;
+}
